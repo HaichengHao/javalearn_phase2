@@ -19,8 +19,5 @@ public class Test06LocalDate {
         2026-10-16
         2026-01-24
          */
-
-
-
     }
 }

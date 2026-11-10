@@ -33,8 +33,6 @@ public class Test05SimpledateFormat {
         //使用parse将符合日期格式的字符串转回Date对象
         String time1 = "2026-01-01 12:32:11";
         System.out.println(sdf.parse(time1));
-
-
     }
 
 }
